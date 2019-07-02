@@ -14,5 +14,11 @@ New parameters in XCS-RC:
 
 Removed/unused parameters: <b>all</b> related to mutation and crossover.
 
-This algorithm in Java available <a href="https://github.com/nuggfr/xcs-rc-java">here</a>.<br>
+List of algorithm in different languages:
+<ul>
+<li> Java <a href="https://github.com/nuggfr/xcs-rc-java">here</a>
+<li> C++ <a href="https://github.com/nuggfr/xcs-rc-cpp">here</a>
+<li> Python <a href="https://github.com/nuggfr/xcs-rc-python">here</a>
+</ul>
+
 Should there be questions, feel free to ask. &#128578;
